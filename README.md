@@ -88,8 +88,4 @@ dotnet test
 ```
 
 ## Project Overview
-
-<details>
-    <summary>Project Demo</summary>
-    <video controls src="demo.gif" title="Title"></video>
-</details>
+![](https://github.com/Enduranc3/UrlShortener/blob/main/demo.gif)
