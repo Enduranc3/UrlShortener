@@ -91,5 +91,5 @@ dotnet test
 
 <details>
     <summary>Project Demo</summary>
-    <video controls src="demo.mp4" title="Title"></video>
+    <video controls src="demo.gif" title="Title"></video>
 </details>
