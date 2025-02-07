@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CEndurance_005CDocuments_005CProjects_005CRiderProjects_005CUrlShortener_005CUrlShortenerApi_005Cbin_005CDebug_005Cnet9_002E0_005CUrlShortenerApi_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Users\Endurance\Documents\Projects\RiderProjects\UrlShortener\UrlShortenerApi\bin\Debug\net9.0\UrlShortenerApi.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5fabb52d_002D250e_002D49f1_002D88c4_002D6c5b96fe6190/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from AuthServiceTests.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;ProjectFile&gt;42A7B2C4-0008-0CE9-9FB0-D8E47BF3744B/d:Services/f:AuthServiceTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;42A7B2C4-0008-0CE9-9FB0-D8E47BF3744B/d:Services/f:UrlShortenerServiceTests.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
